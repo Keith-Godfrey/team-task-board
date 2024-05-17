@@ -5,7 +5,8 @@ I created a simple task board application that allows a team to manage project t
 As a project team member with multiple tasks to organize. I want a task board so that I can add individual project tasks, manage their state of progress, and track overall project progress accordingly.
 
 ## Images of the Website:
-
-
+![alt text](<assets/taskboard screenshot.PNG>)
+![alt text](<assets/Add Task screenshot.PNG>)
 
 ## Link:
+https://godfrk85.github.io/team-task-board/
